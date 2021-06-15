@@ -2,6 +2,8 @@
 
 #Tested on Python3.8
 #This script generates a Cookie based on a legitimate PIN code.
+
+#If you are using a Python version lower than 3.8 and you were unable to generate a Cookie or PIN, use the script at the link below.
 #It is based on the following script, which generates only the PIN code:
 #https://gist.githubusercontent.com/InfoSecJack/70033ecb7dde4195661a1f6ed7990d42/raw/028384ef695e376d412f9276ad27b2c916d4f748/get_flask_pin.py
 
